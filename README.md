@@ -1,8 +1,8 @@
-## My portfolio website
+# My portfolio website
 
 ###### It is an introductory website that shows information about me, my projects, skills, and contact links
 
-# Features
+### Features
 
 1- Added transition effects when navigating between sections <br>
 2- Accessable to users with disabilities <br>
@@ -13,7 +13,7 @@
 <br>
 <br>
  
-# Libraries
+### Libraries
 
 1- framer-motion <br>
 2- React-icons <br>
@@ -25,7 +25,7 @@
 <br>
  
 
-# Local Installation
+### Local Installation
 
 1- Install [Node.js](https://nodejs.org/en) <br>
 2- Install [Reactjs](https://legacy.reactjs.org/docs/getting-started.html) <br>
