@@ -6,7 +6,6 @@
   display: grid;
   grid-template-columns: 3fr 1fr;
   grid-gap: 10px;
-
   display: -webkit-grid;
   -webkit-grid-template-columns: 3fr 1fr;
   -webkit-grid-gap: 10px;
